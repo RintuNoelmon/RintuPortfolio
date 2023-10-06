@@ -1,0 +1,85 @@
+
+  .Auth-form-container {
+    position:relative;
+    top:-10px;
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+    width: 80vw;
+    height: 80vh;
+  }
+  
+  
+  .Auth-form {
+    width: 820px;
+    box-shadow:  rgb(0 0 0 / 16%) 1px 1px 10px; 
+    justify-content:center;
+    position:relative;
+    align-items: center; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background-color: white;
+  }
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 34px;
+    color: #5da9c7;
+    font-weight: 800;
+    font-style: italic; 
+    text-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  }
+
+  .title{
+    text-align: center;
+    /* margin-bottom: 1em; */
+    font-size: 34px;
+    color:#5da9c7;
+    font-weight: 500;
+    font-style: italic; 
+    text-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+
+  }
+  .skill-title{
+    text-align: center;
+    /* margin-bottom: 1em; */
+    font-size: 34px;
+    color:#5da9c7;
+    font-weight: 500;
+    font-style: italic; 
+    text-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    
+  }
+  
+  .super{
+    text-align: center;
+    
+
+  }
+  
+  .contact_icons{
+    display: flex;
+    grid-template-columns: 1fr max-content 1fr;
+    
+    column-gap: 1.5rem;
+    margin-bottom: 2rem;
+
+  }
+
+.contact_icons i {
+  font-size: 24px;
+}
+  
+
+.color{
+  color: lightskyblue; 
+  font-size: 1.2rem; 
+
+}

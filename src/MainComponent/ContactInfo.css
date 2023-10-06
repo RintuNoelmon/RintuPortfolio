@@ -1,0 +1,53 @@
+.container {
+    position: relative;
+  }
+  
+.right-corner {
+    position: absolute;
+    top: 160px;
+    right: 50px;
+}
+
+.text-corner {
+    position: absolute;
+    top: 500px;
+    right: 80px;
+    display:flex;
+    column-gap:0.5rem;
+    color: lightskyblue; 
+    
+    /* margin-bottom: 50px;  */
+}
+
+.text-corner i{
+    font-size: 24px;
+    color: lightskyblue; 
+}
+
+.icon-corner {
+  position: absolute;
+  top: 500px;
+  right: 80px;
+  display:flex;
+  column-gap:0.5rem;
+  /* margin-bottom: 50px;  */
+}
+
+.left-corner {
+  position: absolute;
+  top: 190px;
+  left: 20px;
+ 
+  
+}
+
+
+.header-icons{
+  display:grid;
+  row-gap:3.5rem;
+}
+
+.header-icons i {
+  font-size: 35px;
+  
+}
