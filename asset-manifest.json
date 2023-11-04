@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RintuPortfolio/static/css/main.f1b966e1.css",
+    "main.js": "/RintuPortfolio/static/js/main.92f075e0.js",
+    "static/js/787.1f11dfe9.chunk.js": "/RintuPortfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/Image.png": "/RintuPortfolio/static/media/Image.e48faf18d4b92e31fc75.png",
+    "index.html": "/RintuPortfolio/index.html",
+    "main.f1b966e1.css.map": "/RintuPortfolio/static/css/main.f1b966e1.css.map",
+    "main.92f075e0.js.map": "/RintuPortfolio/static/js/main.92f075e0.js.map",
+    "787.1f11dfe9.chunk.js.map": "/RintuPortfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b966e1.css",
+    "static/js/main.92f075e0.js"
+  ]
+}
